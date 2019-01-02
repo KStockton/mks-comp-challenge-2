@@ -762,3 +762,13 @@ body {
 #bar_png {
     margin: 0rem;
   }
+
+  nav {
+    display: grid;
+  }
+
+  @media only screen and (max-width: 320px) {
+    #bar_png {
+      display: none;
+    }
+  }
