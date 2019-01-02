@@ -14,3 +14,8 @@
 <img width="1680" alt="screen shot 2019-01-02 at 8 00 08 am" src="https://user-images.githubusercontent.com/34406483/50598109-ff0ce900-0e66-11e9-896c-2efb8955d152.png">
 <img width="1680" alt="screen shot 2019-01-02 at 8 00 12 am" src="https://user-images.githubusercontent.com/34406483/50598114-046a3380-0e67-11e9-9317-f2103b606d02.png">
 <img width="1680" alt="screen shot 2019-01-02 at 8 00 16 am" src="https://user-images.githubusercontent.com/34406483/50598121-08965100-0e67-11e9-9c2b-7f120f362a89.png">
+Each image above shows a different hover state that was created for the project.
+Also we had to create media queries to make our site work on other screen sizes.
+<img width="1101" alt="screen shot 2019-01-02 at 8 23 22 am" src="https://user-images.githubusercontent.com/34406483/50598470-17313800-0e68-11e9-9d6e-1d1d9bf58331.png">
+<img width="545" alt="screen shot 2019-01-02 at 8 25 20 am" src="https://user-images.githubusercontent.com/34406483/50598471-18fafb80-0e68-11e9-9974-c36d098d793f.png">
+I collapsed the side menu navigation and created another as the website becomes smaller.
